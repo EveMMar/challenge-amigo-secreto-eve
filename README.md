@@ -8,16 +8,6 @@ Ele permite:
 ✅ Sortear aleatoriamente o Amigo Secreto.  
 
 ---
-
-## Tecnologias utilizadas  
-
-Este projeto foi desenvolvido com as seguintes tecnologias:  
-- **HTML** → Estrutura do site.  
-- **CSS** → Estilização para melhor experiência visual.  
-- **JavaScript** → Lógica para cadastro, exibição e sorteio dos participantes.  
-
----
-
 ## Sobre o desafio  
 
 Este projeto faz parte do curso que estou realizando por meio do programa **ONE (Oracle Next Education)**, uma iniciativa da **Oracle** em parceria 
@@ -25,6 +15,14 @@ com a **Alura**. Durante o desenvolvimento, aprendi conceitos essenciais de **ar
 
 Foi uma experiência incrível, e estou animada para continuar aprimorando minhas habilidades! ✨  
 
+---
+
+## Tecnologias utilizadas  
+
+Este projeto foi desenvolvido com as seguintes tecnologias:  
+- **HTML** → Estrutura do site.  
+- **CSS** → Estilização para melhor experiência visual.  
+- **JavaScript** → Lógica para cadastro, exibição e sorteio dos participantes.  
 ---
 
 📌 Feito por Évelem Martins
